@@ -9,4 +9,8 @@
     <string name="button_countapp">Go to countApp</string>
     <string name="welcome">Welkom!</string>
     <string name="bye">Tot ziens!</string>
+    <string name="todo_list">Todo list</string>
+    <string name="todo_newhint">Enter a new item</string>
+    <string name="todo_newitem">Add Item</string>
+    <string name="welcome_todolist">Hallo hallo la todo list!</string>
 </resources>

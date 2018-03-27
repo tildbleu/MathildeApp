@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
     public void launchCountApp(View view) {
         Intent intent = new Intent(this, countapp.class);
         startActivity(intent);
+    }
 
+    public void launchTodoApp(View view) {
+        Intent intent = new Intent(this, todoapp.class);
+        startActivity(intent);
     }
 }

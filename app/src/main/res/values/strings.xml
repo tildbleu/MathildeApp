@@ -5,4 +5,8 @@
     <string name="button_label_count">Count</string>
     <string name="count_initial_value">0</string>
     <string name="toast_message">Hello Toasty Toasta!</string>
+    <string name="button_label_restart">Restart</string>
+    <string name="button_countapp">Go to countApp</string>
+    <string name="welcome">Welkom!</string>
+    <string name="bye">Tot ziens!</string>
 </resources>

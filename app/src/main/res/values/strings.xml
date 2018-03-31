@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MathildApp</string>
+    <string name="app_name">MathildeApp</string>
     <string name="greetingmessage">Joyeux Noël!</string>
     <string name="button_label_toast">Hello Toast!</string>
     <string name="button_label_count">Count</string>
@@ -13,4 +13,5 @@
     <string name="todo_newhint">Enter a new item</string>
     <string name="todo_newitem">Add Item</string>
     <string name="welcome_todolist">Hallo hallo la todo list!</string>
+    <string name="button_return">Back to main screen</string>
 </resources>

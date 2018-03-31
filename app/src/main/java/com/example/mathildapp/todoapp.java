@@ -82,4 +82,6 @@ public class todoapp extends AppCompatActivity {
         writeItems();
 
     }
+
+    // ToDo: change list order long tapping on items
 }
